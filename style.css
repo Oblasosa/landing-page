@@ -155,3 +155,67 @@ h2 {
     font-weight: 900;
     font-size: 24px;
 }
+
+.bottom {
+    display: flex;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top:100px;
+}
+
+.btext {
+    display: flex;
+    height: 150px;
+    width: 100%;
+    background:#3882f6;
+    border-radius: 10px;
+    color:#E5E7EB;
+}
+
+.btext1 {
+    display:flex;
+    flex-direction: column;
+    justify-content: left;
+    padding-top: 30px;
+    margin-left: 150px;
+    line-height: 0;
+    margin-right: auto;
+}
+
+h4 {
+    font-size: 24px;
+}
+
+.bsub {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.sign {
+    background: #3882f6;
+    color: white;
+    border: 2px white solid;
+    border-radius: 10px;
+    padding:10px;
+    height:40px;
+    width:120px;
+    font-weight: 900;
+    margin-top: 55px;
+    margin-right: 150px;
+    font-size: 16px;
+}
+
+.footer {
+    margin-top: 80px;
+    height:80px;
+    margin-bottom: none;
+    background: #1f2937;
+    color: white;
+}
+
+.ftext {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
