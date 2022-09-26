@@ -129,7 +129,29 @@ h2 {
    
 }
 
-.quote {
+.quote-space {
     height: 400px;
     background: #e5e7eb;
+}
+
+.quote {
+    margin-left:400px;
+    margin-right:400px;
+
+}
+
+.quote-text {
+    padding-top: 100px;
+    padding-left: 180px;
+    padding-right: 180px;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.quote-end {
+    text-align: right;
+    padding-right: 180px;
+    font-weight: 900;
+    font-size: 24px;
 }
